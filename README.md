@@ -1,1 +1,1 @@
-Thisis a repo for systems sngineering devops
+This is a repo for systems sngineering devops
